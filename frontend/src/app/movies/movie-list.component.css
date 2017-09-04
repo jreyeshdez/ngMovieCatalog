@@ -1,0 +1,18 @@
+thead {
+  color: #cf7294;
+  /*color: #72cfad;*/
+}
+
+.panel-heading {
+  background-color: #cf7294;
+  border-color: #cf7294;
+}
+
+.panel {
+  border-color: #cf7294;
+}
+
+.btn-primary {
+  background-color: #cf7294;
+  border-color: #cf7294;
+}
