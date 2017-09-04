@@ -30,3 +30,5 @@ To run the application you need to install [Apache Cassandra.](http://docs.datas
 
 Run `cqlsh -f movie_app.cql` to create the Keyspace "movie_ks" 
 as well as create and populate the table "movies".
+
+![Screenshot](https://github.com/jreyeshdez/ngMovieCatalog/blob/master/movieCatalog.jpg)
